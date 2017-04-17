@@ -1,4 +1,5 @@
-@Eddie Molina
+@ Eddie Molina
+@ Program 2
 .global main
 .func main
    
